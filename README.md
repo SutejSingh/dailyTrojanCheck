@@ -5,7 +5,7 @@ University of Southern California has implemented a system for covid management 
 This is the code for automating that process. This code allows the use to setup a scheduled `cronjob` that executes the script which answers the questionare on its own. Attached along is also a Mac Automator file that sends the email of the screenshot of QR code to an email address that you specify.
 
 ## Warning!
-The intention is to save the time answering the questionare in the morning. Please use the software carefully. Do not go to campus if feeling sick. Keep the "on-campus life" safe for us all and use the software mindfully. I do not support lying abou your symptoms using this software.
+The intention is to save the time answering the questionare in the morning. Please use the software carefully. Do not go to campus if feeling sick. Keep the "on-campus life" safe for us all and use the software mindfully. I do not support lying about your symptoms using this software and am not responsible if using this software gets you in trouble with the university.
 
 ## Installation
 1. You need to install a javascript library called nightwatch.js 
