@@ -52,5 +52,7 @@ The intention is to save the time answering the questionare in the morning. Plea
 
 6. Now open apple calendar app and set a recurring event on weekdays at 12:15AM or whichever time you prefer. In the "alert" section select "custom" and then select "open file". Then click on the "calendar" drop down and slelect the automator file.
 
+      ![Screen Shot 2021-09-10 at 12 07 06 AM](https://user-images.githubusercontent.com/40639516/132816049-f9610e0f-86b3-4fc6-9f3b-96da2de8d546.png)
+
 #### You're all set. FIGHT ON!
      
