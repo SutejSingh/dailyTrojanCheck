@@ -14,7 +14,7 @@ The intention is to save the time answering the questionare in the morning. Plea
       npm install nightwatch
       ```
 
-2. Install chrome is not already installed from [here](https://www.google.com/chrome/) 
+2. Install chrome if not already installed from [here](https://www.google.com/chrome/) 
 
 3. Now install the chrome webdriver 
     
