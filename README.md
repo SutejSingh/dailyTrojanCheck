@@ -46,7 +46,7 @@ The intention is to save the time answering the questionare in the morning. Plea
            5 0 * * * npx nightwatch Desktop/LMAO/covid_v3.js
 5. Open the attached Automator file
 
-    1. Click on add in the "Get Specified Finder Items" section and naviagte to the folder you are storing your screenshots
+    1. Click on add in the "Get Specified Finder Items" section and naviagte to the folder where you are storing your screenshots
     2. Enter your email in the "To: " section in "New Mail Message Section" 
       ![Screen Shot 2021-09-09 at 11 58 01 PM](https://user-images.githubusercontent.com/40639516/132812996-59407841-b2c9-499e-bf16-0a8cb80477ca.png)
 
