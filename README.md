@@ -29,7 +29,7 @@ The intention is to save the time answering the questionare in the morning. Plea
 4. Open the `covid_v3.js` file and change the capitalized text to what you desire. You must enter your username and password and change the location of where you want the screenshots to be stored. In my case its at `/Desktop/LMAO/reports`
     
     **It is safe to store you username and password in these files ONLY if you do not upload the file on github or anywhere online. Also keep the file safe from other people's eyes.**
-6. In terminal type the following code to schedule it run everyday at. 12:05AM. For this scheduled code to run it is ***important that your laptop must be wake***. You can schedule your macBook to wake and sleep in the "Battery" setting in preferences.
+6. In terminal type the following code to schedule it run everyday at 12:05AM. (For this scheduled code to run it is ***important that your laptop must be wake***. You can schedule your macBook to wake and sleep in the "Battery" setting in preferences.)
 
     `crontab -e`
     1. This will open the vim editor. (See if your default is nano or vim, but most likely would be vim)
