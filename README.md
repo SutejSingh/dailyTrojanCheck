@@ -52,7 +52,11 @@ The intention is to save the time answering the questionare in the morning. Plea
 
     3. After enetring all the details click on File > Convert To and then select "Application".
     4. Now go to File > Save and select the file format as "Application". It would create a file with the name you chose and extension as `.app`
-6. Now open apple calendar app and set a recurring event on weekdays at 12:15AM or whichever time you prefer. In the "alert" section select "custom" and then select "open file". Then click on the "calendar" drop down and slelect "other" and then select the automator `.app` file.
+ 
+ You can choose to automate opening the automator file using Calendar events or use crontab in similar wayto open the automator file at a specified time instead.
+
+
+6. Calendar Method: Open apple calendar app and set a recurring event on weekdays at 12:15AM or whichever time you prefer. In the "alert" section select "custom" and then select "open file". Then click on the "calendar" drop down and slelect "other" and then select the automator `.app` file.
 
       ![Screen Shot 2021-09-10 at 12 07 06 AM](https://user-images.githubusercontent.com/40639516/132816049-f9610e0f-86b3-4fc6-9f3b-96da2de8d546.png)
       
